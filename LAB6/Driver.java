@@ -1,7 +1,10 @@
 public class Driver{
 	public static void main (String[]args){
-		Calculator adv= new Calculator();
-		System.out.println(adv.add(),adv.substract(), adv.multiply(),adv.devide());		
+	
+	Employee emp= new Employee();
+	System.out.print(emp.toString());
+	
+				
 		
 
 
