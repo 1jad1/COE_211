@@ -7,7 +7,7 @@ public class EntryPoint {
          */
 	Scanner scan=new Scanner(System.in);
 	int option;
-	String y,n;
+	
 
 	System.out.println("Which service would you like to use?" 
 				+ "\n" + "[1]: Basic week visualizer" 
